@@ -1,11 +1,11 @@
 # PIA_LPC61
-PIA Laboratorio de Programación para ciberseguridad
-Scripts de Laboratorio
+PIA: Scripts creados durante el curso de Laboratorio para Programacion de Ciberseguridad
 
 # Autor
 Víctor Manuel Cárdenas Cavazos; 1919410
 
 # Scripting en PowerShell
+
 
 # Scripting en Bash
 
