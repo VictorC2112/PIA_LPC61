@@ -1,6 +1,6 @@
 # PIA_LPC61
 PIA Laboratorio de Programación para ciberseguridad
-Scripts de Laboratorio
+/nScripts de Laboratorio
 
 # Autor
 Víctor Manuel Cárdenas Cavazos; 1919410
