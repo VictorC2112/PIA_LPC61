@@ -33,4 +33,4 @@ Acceso a la [carpeta general](https://github.com/VictorC2112/PIA_LPC61/tree/main
 # Envío de correos
 Acceso a la [carpeta general](https://github.com/VictorC2112/PIA_LPC61/tree/main/Envio_correo)
 - Envio de correos bajo un formato HTML: [archivo](https://github.com/VictorC2112/PIA_LPC61/blob/main/Envio_correo/script_correo.py)
-* Nota: Este archivo requiere informacion sensible como contraseñas.
+**Nota**: Este archivo requiere informacion sensible como contraseñas.
