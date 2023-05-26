@@ -1,6 +1,7 @@
 #!/bin/bash
 # Script number.sh
-# 9/Marzo/2023 - Victor Manuel Cardenas Cavazos
+# Nombre: Victor Manuel Cardenas Cavazos
+# Matrícula: 1919410
 #
 # Leer 3 numeros asignados a 3 variable
 read -p "Proporciona un numero para variable 1. " n1
