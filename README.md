@@ -13,6 +13,8 @@ Acceso a la [carpeta general](https://github.com/VictorC2112/PIA_LPC61/tree/main
 Acceso a la [carpeta general](https://github.com/VictorC2112/PIA_LPC61/tree/main/Scripts_BASH)
 - Presentacion usuarios conectados: [archivo](https://github.com/VictorC2112/PIA_LPC61/blob/main/Scripts_BASH/welcome.sh)
 - Saludo de bienvenida: [archivo](https://github.com/VictorC2112/PIA_LPC61/blob/main/Scripts_BASH/bro.sh)
+- Mostrar variables en pantalla: [archivo](https://github.com/VictorC2112/PIA_LPC61/blob/main/Scripts_BASH/number.sh)
+- Descubrir equipos conectados a la red interna: [archivo]()
 
 # Scripting en Bash
 
