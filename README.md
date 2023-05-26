@@ -27,4 +27,4 @@ Acceso a la [carpeta general](https://github.com/VictorC2112/PIA_LPC61/tree/main
 Acceso a la [carpeta general](https://github.com/VictorC2112/PIA_LPC61/tree/main/Escaner_Puertos)
 
 # Envío de correos
-Acceso a la carpeta general
+Acceso a la [carpeta general](https://github.com/VictorC2112/PIA_LPC61/tree/main/Envio_correo)
