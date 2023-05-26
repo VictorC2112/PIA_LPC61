@@ -1,6 +1,7 @@
 #!/bin/bash
 # Script welcome.sh
-# 9/Marzo/2023 - Victor Manuel Cardenas Cavazos
+# Nombre: Victor Manuel Cardenas Cavazos
+# Matricula: 1919410
 #
 echo "Hola ${LOGNAME}"
 echo "Hoy es $(date)"
