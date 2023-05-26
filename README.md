@@ -21,7 +21,7 @@ Acceso a la [carpeta general](https://github.com/VictorC2112/PIA_LPC61/tree/main
 # WebScrapping
 Acceso a la [carpeta general](https://github.com/VictorC2112/PIA_LPC61/tree/main/webscrapping_metadata)
 - Web Scrapping a sitio web sobre citas y autores: [archivo](https://github.com/VictorC2112/PIA_LPC61/blob/main/webscrapping_metadata/scrape_quote.py)
-- Web Scrapping y analisis de metadatos en sitio web: [archivo]()
+- Web Scrapping y analisis de metadatos en sitio web: [archivo](https://github.com/VictorC2112/PIA_LPC61/blob/main/webscrapping_metadata/scrap12.py)
 
 # Escaner de puertos
 
