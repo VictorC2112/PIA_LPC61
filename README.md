@@ -1,4 +1,4 @@
-<em> # PIA_LPC61 </em>
+<h1 align="center"> PIA_LPC61 </h1>
 [PIA](https://github.com/VictorC2112/PIA_LPC61/tree/main): Repositorio de Scripts previamente creados a lo largo del semestre
 
 # Autor
