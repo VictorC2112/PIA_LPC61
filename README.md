@@ -23,8 +23,9 @@ Acceso a la [carpeta general](https://github.com/VictorC2112/PIA_LPC61/tree/main
 - Web Scrapping a sitio web sobre citas y autores: [archivo](https://github.com/VictorC2112/PIA_LPC61/blob/main/webscrapping_metadata/scrape_quote.py)
 - Web Scrapping y analisis de metadatos en sitio web: [archivo](https://github.com/VictorC2112/PIA_LPC61/blob/main/webscrapping_metadata/scrap12.py)
 
-# Escaner de puertos
+# Escaner de puertos (python)
 Acceso a la [carpeta general](https://github.com/VictorC2112/PIA_LPC61/tree/main/Escaner_Puertos)
+- Verificar puertos abiertos: [archivo]()
 
 # Envío de correos
 Acceso a la [carpeta general](https://github.com/VictorC2112/PIA_LPC61/tree/main/Envio_correo)
