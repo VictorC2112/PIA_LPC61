@@ -25,8 +25,9 @@ Acceso a la [carpeta general](https://github.com/VictorC2112/PIA_LPC61/tree/main
 
 # Escaner de puertos (python)
 Acceso a la [carpeta general](https://github.com/VictorC2112/PIA_LPC61/tree/main/Escaner_Puertos)
-- Verificar puertos abiertos: [archivo](https://github.com/VictorC2112/PIA_LPC61/blob/main/Escaneo_IP/scan_portv1.py)
+- Evaluar puertos abiertos: [archivo](https://github.com/VictorC2112/PIA_LPC61/blob/main/Escaneo_IP/scan_portv1.py)
 - Evaluacion de cada puerto si esta disponible: [archivo](https://github.com/VictorC2112/PIA_LPC61/blob/main/Escaneo_IP/scan_portv2.py)
+- Analisis de puertos por una direccion ip entre un rango: [archivo]()
 
 # Envío de correos
 Acceso a la [carpeta general](https://github.com/VictorC2112/PIA_LPC61/tree/main/Envio_correo)
