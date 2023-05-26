@@ -5,7 +5,7 @@
 [@VictorC2112](https://github.com/VictorC2112) Víctor Manuel Cárdenas Cavazos; 1919410
 
 # Scripting en PowerShell
-- Codigos de ejecucion en Powershell para escaneo ip de puertos
+Codigos de ejecucion en Powershell para escaneo ip de puertos
 Acceso a la [carpeta general](https://github.com/VictorC2112/PIA_LPC61/tree/main/Escaner_Puertos):
 - Escaneo de equipos activos en nuestra subred: [archivo](https://github.com/VictorC2112/PIA_LPC61/blob/main/Escaner_Puertos/scan_alivev2.ps1)
 - Escaneo de puertos sobre una direccion ip: [archivo](https://github.com/VictorC2112/PIA_LPC61/blob/main/Escaner_Puertos/scan_portv1.ps1)
