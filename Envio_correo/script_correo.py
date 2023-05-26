@@ -14,7 +14,7 @@ receiver_email = "<Correo Destinatario>" # Correo a donde llego
 
 # Mensaje de asunto
 message = MIMEMultipart("alternative")
-message["Subject"] = "Prueba de envio (script_correo) - 1919410"
+message["Subject"] = "Prueba de envio (script_correo) - 1919410" # Asunto del correo
 message["From"] = sender_email
 message["To"] = receiver_email
 
@@ -28,7 +28,7 @@ Matricula: 1919410"""
 html = """\
 <html>
   <body>
-    <p><img src="C:/Users/carde/Downloads/fcfm_cool.png"><br><br>
+    <p><img src="C:/Users/carde/Downloads/fcfm_cool.png"><br><br
       <h2><strong>Practica 12</strong></h2><br><br>
        Ejercicio de la practica 12 para envio de correos<br><br>
        <strong>Alumno</strong>: Victor Manuel Cardenas Cavazos<br><br>
