@@ -1,6 +1,7 @@
 #!/bin/bash
 # Script bro.sh
-# 9/Marzo/2023 - Victor Manuel Cardenas Cavazos
+# Nombre: Victor Manuel Cardenas Cavazos
+# Matricula: 1919410
 #
 read -p "Escribe tu nombre. " nombre
 echo "Hola, $nombre. Seamos amigos!"
