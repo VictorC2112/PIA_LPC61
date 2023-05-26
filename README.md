@@ -4,6 +4,8 @@
 # Autor
 [@VictorC2112](https://github.com/VictorC2112) Víctor Manuel Cárdenas Cavazos; 1919410
 
+#
+
 # Scripting en PowerShell
 Acceso a la [carpeta general](https://github.com/VictorC2112/PIA_LPC61/tree/main/Escaner_Puertos):
 - Escaneo de equipos activos en nuestra subred: [archivo](https://github.com/VictorC2112/PIA_LPC61/blob/main/Escaner_Puertos/scan_alivev2.ps1)
