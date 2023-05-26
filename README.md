@@ -18,8 +18,6 @@ Acceso a la [carpeta general](https://github.com/VictorC2112/PIA_LPC61/tree/main
 - Escaneo de puertos: [archivo](https://github.com/VictorC2112/PIA_LPC61/blob/main/Scripts_BASH/portscanv1.sh)
 - Menu de opciones sobre el equipo: [archivo](https://github.com/VictorC2112/PIA_LPC61/blob/main/Scripts_BASH/superscan.sh)
 
-# Scripting en Bash
-
 # WebScrapping
 
 # Escaner de puertos
