@@ -1,6 +1,7 @@
 #!/bin/bash
 # Script netdiscover.sh
-# 9/Marzo/2023 - Victor Manuel Cardenas Cavazos
+# Nombre: Victor Manuel Cardenas Cavazos
+# Matrícula: 1919410
 #
 # Escaner de red basico en BASH
 #
